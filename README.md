@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahd Saleh</h1>
 <h3 align="center">A passionate Software Development Engineer from California, US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahd209" alt="fahd209" /></a> </p>
 
 - 🔭 I’m currently working on [Mock Mentor AI](https://github.com/fahd209/Mock-Mentor-AI)
 
