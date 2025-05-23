@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mock Mentor AI](https://github.com/fahd209/Mock-Mentor-AI)
 
-- 🌱 I’m currently learning **Generative AI, RAG, Fine-tuning, Tensor flow**
+- 🌱 I’m currently learning **Generative AI, RAG, Fine-tuning, Tensor flow, and AI agents**
 
 - 👯 I’m looking to collaborate on **Generative AI and projects that will solve real world problems**
 
