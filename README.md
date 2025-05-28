@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahd Saleh</h1>
 <h3 align="center">A passionate Software Development Engineer from California, US</h3>
 
-
-- 🔭 I’m currently working on [Mock Mentor AI](https://github.com/fahd209/Mock-Mentor-AI)
-
 - 🌱 I’m currently learning **Generative AI, RAG, Fine-tuning, Tensor flow, and AI agents**
 
 - 👯 I’m looking to collaborate on **Generative AI and projects that will solve real world problems**
