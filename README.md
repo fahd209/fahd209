@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Specialization: Fullstack + AI.<br>🤝 Looking to collaborate on: Machine learning and backend projects.<br> Learning: Machine learning and Agentic AI.<br>💬 Ask me about: Backend applications<br>
+Specialization: Fullstack + AI.<br>Looking to collaborate on: Machine learning and backend projects.<br>Learning: Machine learning and Agentic AI.<br>Ask me about: Backend applications<br>
 
 
 
